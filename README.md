@@ -8,7 +8,7 @@ uChip
 ##### DESCRIPTION:  
 This repository contains example codes to show how to use the Microchip XC8 compiler to  
 program PICs MCU.   
-Each code includes a PCB layout showing the setup for the code provided.
+Each code includes a PCB layout showing the setup for the code provided (PENDING).
 
 ##### USAGE NOTES:  
 

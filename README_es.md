@@ -9,7 +9,7 @@ uChip
 
 Este repositorio contiene códigos de ejemplos para mostrar el uso del compilador XC8 de
 Microchip para programar microcontroladores PIC.
-Cada código incluye un diseño esquemático con el montaje para probar el código proporcionado.
+Cada código incluye un diseño esquemático con el montaje para probar el código proporcionado (PENDIENTE).
 
 ##### NOTAS DE USO:  
 
